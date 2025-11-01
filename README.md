@@ -8,9 +8,15 @@
 
 </div>
 
+<br/>
+
+<table><tr><td>
+
 **Multidisciplinary software engineer** passionate about creating exceptional digital experiences. I define myself as a **change agent** who embraces technical challenges with curiosity and determination. I combine strategic vision with practical execution to transform complex ideas into elegant and scalable solutions.
 
 <sub>+15 years in tech • PhD in Philosophy • Studying Physics</sub>
+
+</td></tr></table>
 
 
 <div align="center">
@@ -22,9 +28,12 @@
 
 ## 🏆 Featured Projects
 
-### Mi Pepephone <sub>(2023 – Present)</sub>
+<table>
+<tr>
+<td width="100"><img src="./assets/mi-pepephone-logo.png" width="100" alt="Mi Pepephone"/></td>
+<td>
 
-<img src="./assets/mi-pepephone-logo.png" align="left" width="100" alt="Mi Pepephone"/>
+### Mi Pepephone <sub>(2023 – Present)</sub>
 
 Lead developer of the React Native team. Highest-rated app in the sector on app stores.
 
@@ -35,13 +44,14 @@ Lead developer of the React Native team. Highest-rated app in the sector on app 
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.spanishcoders.pepephone)
 [![Huawei AppGallery](https://img.shields.io/badge/Huawei_AppGallery-FF0000?style=flat-square&logo=huawei&logoColor=white)](https://appgallery.huawei.com/app/C104303317)
 
-<br clear="left"/>
-
----
+</td>
+</tr>
+<tr><td colspan="2"></td></tr>
+<tr>
+<td width="100"><img src="./assets/yoigo-logo.svg.png" width="100" alt="Yoigo"/></td>
+<td>
 
 ### Yoigo.com <sub>(2018 – 2019)</sub>
-
-<img src="./assets/yoigo-logo.svg.png" align="left" width="100" alt="Yoigo"/>
 
 Led the development of the new corporate website with Angular 2, Redux, and RxJS for complex user journeys.
 
@@ -49,13 +59,14 @@ Led the development of the new corporate website with Angular 2, Redux, and RxJS
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
 
-<br clear="left"/>
-
----
+</td>
+</tr>
+<tr><td colspan="2"></td></tr>
+<tr>
+<td width="100"><img src="./assets/geniac-logo.png" width="100" alt="Geniac"/></td>
+<td>
 
 ### Geniac <sub>(2016 – 2017)</sub>
-
-<img src="./assets/geniac-logo.png" align="left" width="100" alt="Geniac"/>
 
 Implemented critical workflow, automation, and reporting modules for enterprise SaaS platform.
 
@@ -63,13 +74,14 @@ Implemented critical workflow, automation, and reporting modules for enterprise 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
-<br clear="left"/>
-
----
+</td>
+</tr>
+<tr><td colspan="2"></td></tr>
+<tr>
+<td width="100"><img src="./assets/bitbloq-logo.svg" width="100" alt="Bitbloq"/></td>
+<td>
 
 ### Bitbloq <sub>(2014 – 2016)</sub>
-
-<img src="./assets/bitbloq-logo.svg" align="left" width="100" alt="Bitbloq"/>
 
 Scratch-like educational platform built with Electron for Windows/Linux/macOS using Angular and Backbone.
 
@@ -78,9 +90,9 @@ Scratch-like educational platform built with Electron for Windows/Linux/macOS us
 ![Backbone](https://img.shields.io/badge/Backbone.js-0071B5?style=flat-square&logo=backbone.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-<br clear="left"/>
-
----
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -231,14 +243,18 @@ Scratch-like educational platform built with Electron for Windows/Linux/macOS us
 
 ## 📊 My Activity
 
-<p align="center">
-	<img src="https://github-readme-stats-mu-ten-27.vercel.app/api?username=dieguezz&show_icons=true&bg_color=00000000&title_color=6d289f&icon_color=9d4edd&text_color=c77dff&border_color=6d289f&hide_border=false&count_private=true&include_all_commits=true&border_radius=8&border_width=1" alt="GitHub Stats" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieguezz&langs_count=8&layout=compact&bg_color=00000000&title_color=6d289f&icon_color=9d4edd&text_color=c77dff&border_color=6d289f&hide_border=false&border_radius=8&border_width=1" alt="Top Languages" />
-</p>
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats-mu-ten-27.vercel.app/api?username=dieguezz&show_icons=true&bg_color=00000000&title_color=6d289f&icon_color=9d4edd&text_color=c77dff&border_color=6d289f&hide_border=false&count_private=true&include_all_commits=true&border_radius=8&border_width=1" alt="GitHub Stats" width="100%"/>
+</td>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieguezz&langs_count=8&layout=compact&bg_color=00000000&title_color=6d289f&icon_color=9d4edd&text_color=c77dff&border_color=6d289f&hide_border=false&border_radius=8&border_width=1" alt="Top Languages" width="100%"/>
+</td>
+</tr>
+</table>
 
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dieguezz&bg_color=00000000&color=6d289f&line=9d4edd&point=c77dff&area=true&area_color=6d289f&title_color=6d289f&custom_title=GitHub%20Activity&hide_border=false&border_color=6d289f&radius=8&border_width=1" alt="GitHub Activity Graph" width="100%"/>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dieguezz&bg_color=00000000&color=6d289f&line=9d4edd&point=c77dff&area=true&area_color=6d289f&title_color=6d289f&custom_title=GitHub%20Activity&hide_border=false&border_color=6d289f&radius=8&border_width=1" alt="GitHub Activity Graph" width="100%"/>
 
 <br/>
 
