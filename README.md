@@ -5,45 +5,52 @@
 	<p style="margin-top: 12px;">
 		<strong>Co-founder of</strong> 
 		<a href="https://etereo.io" target="_blank" style="text-decoration: none; margin-left: 8px;">
-			<img src="./assets/etereo-logo.svg" alt="etereo" style="height: 24px; vertical-align: middle; padding: 4px 8px; background: white; border-radius: 4px; border: 1px solid #e0e0e0;"/>
+			<img src="./assets/etereo-logo.svg" alt="etereo" style="height: 24px; vertical-align: middle; padding: 4px 8px; background: white; border-radius: 4px; border: 1px solid #e0e0e0;" width="auto"/>
 		</a>
 	</p>
 </div>
 
-<div style="display: flex; gap: 20px; align-items: center; padding: 20px; border: 1px solid #6d289f; border-radius: 8px; background: linear-gradient(135deg, rgba(109, 40, 159, 0.05) 0%, rgba(157, 78, 221, 0.05) 100%);">
-	<div style="flex: 1;">
-		<p style="margin: 0; line-height: 1.6;">
-			Multidisciplinary software engineer passionate about creating exceptional digital experiences. I define myself as a <strong>change agent</strong> who embraces technical challenges with curiosity and determination. I combine strategic vision with practical execution to transform complex ideas into elegant and scalable solutions.
-		</p>
-	</div>
-	<div style="flex: 0 0 auto; text-align: right; font-size: 0.85em; color: #666;">
-		<p style="margin: 0;">+15 years in tech</p>
-		<p style="margin: 4px 0 0 0;">PhD in Philosophy</p>
-		<p style="margin: 4px 0 0 0;">Studying Physics</p>
-	</div>
+<div align="center">
+	<table width="100%" cellpadding="0" cellspacing="0" border="0">
+		<tr>
+			<td>
+				<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='1'%3E%3Crect width='100%25' height='100%25' fill='none' rx='8' ry='8' stroke='%236d289f' stroke-width='1' stroke-dasharray='0' stroke-dashoffset='0' stroke-linecap='square'/%3E%3C/svg%3E" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" />
+				<table width="100%" cellpadding="20" cellspacing="0" border="0" style="border: 1px solid #6d289f; border-radius: 8px;">
+					<tr>
+						<td width="70%" valign="middle">
+							<p style="margin: 0; line-height: 1.6;">
+								Multidisciplinary software engineer passionate about creating exceptional digital experiences. I define myself as a <strong>change agent</strong> who embraces technical challenges with curiosity and determination. I combine strategic vision with practical execution to transform complex ideas into elegant and scalable solutions.
+							</p>
+						</td>
+						<td width="30%" valign="middle" align="right">
+							<p style="margin: 0; font-size: 0.85em; color: #666;">+15 years in tech</p>
+							<p style="margin: 4px 0 0 0; font-size: 0.85em; color: #666;">PhD in Philosophy</p>
+							<p style="margin: 4px 0 0 0; font-size: 0.85em; color: #666;">Studying Physics</p>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
 </div>
 
 <br/>
 
-<table width="100%" border="0" style="border: none;">
-	<tr style="border: none;">
-		<td width="100%" valign="top" align="center" style="border: none;">
-			<a href="https://git.io/typing-svg">
-				<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=22&pause=1000&color=6d289f&background=00000000&center=true&vCenter=true&width=550&lines=Software+engineer;Senior+Mobile+%2B+Web+Developer;React+Native+Specialist;Building+technology+since+I+was+a+kid;Security+%26+Anonymity+Enthusiast;Game+changer;Chess+Player;Always+Learning" alt="Typing SVG" />
-			</a>
-		</td>
-	</tr>
-</table>
+<div align="center">
+	<a href="https://git.io/typing-svg">
+		<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=22&pause=1000&color=6d289f&background=00000000&center=true&vCenter=true&width=550&lines=Software+engineer;Senior+Mobile+%2B+Web+Developer;React+Native+Specialist;Building+technology+since+I+was+a+kid;Security+%26+Anonymity+Enthusiast;Game+changer;Chess+Player;Always+Learning" alt="Typing SVG" />
+	</a>
+</div>
 
 
 ## 🏆 Featured Projects
 
-<table width="100%" border="0" style="border: none;">
-	<tr style="border: none;">
-		<td width="15%" valign="middle" align="center" style="border: none;">
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td width="15%" valign="middle" align="center">
 			<img src="./assets/mi-pepephone-logo.png" style="max-height: 100px; max-width: 100%;" alt="Logo Mi Pepephone"/>
 		</td>
-		<td width="85%" valign="middle" style="border: none;">
+		<td width="85%" valign="middle">
 			<h3 style="margin: 0 0 8px 0;">mi pepephone <small>(2023 – Present)</small></h3>
 			<p style="margin: 0 0 8px 0;">Lead developer of the React Native team. Highest-rated app in the sector on app stores.</p>
 			<p style="margin: 0;">
@@ -58,12 +65,12 @@
 	</tr>
 </table>
 
-<table width="100%" border="0" style="border: none;">
-	<tr style="border: none;">
-		<td width="15%" valign="middle" align="center" style="border: none;">
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td width="15%" valign="middle" align="center">
 			<img src="./assets/yoigo-logo.svg.png" style="max-height: 100px; max-width: 100%;" alt="Logo Yoigo"/>
 		</td>
-		<td width="85%" valign="middle" style="border: none;">
+		<td width="85%" valign="middle">
 			<h3 style="margin: 0 0 8px 0;">Yoigo.com <small>(2018 – 2019)</small></h3>
 			<p style="margin: 0 0 8px 0;">Led the development of the new corporate website with Angular 2, Redux, and RxJS for complex user journeys.</p>
 			<p style="margin: 0;">
@@ -75,12 +82,12 @@
 	</tr>
 </table>
 
-<table width="100%" border="0" style="border: none;">
-	<tr style="border: none;">
-		<td width="15%" valign="middle" align="center" style="border: none;">
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td width="15%" valign="middle" align="center">
 			<img src="./assets/geniac-logo.png" style="max-height: 100px; max-width: 100%;" alt="Logo Geniac"/>
 		</td>
-		<td width="85%" valign="middle" style="border: none;">
+		<td width="85%" valign="middle">
 			<h3 style="margin: 0 0 8px 0;">Geniac <small>(2016 – 2017)</small></h3>
 			<p style="margin: 0 0 8px 0;">Implemented critical workflow, automation, and reporting modules for enterprise SaaS platform.</p>
 			<p style="margin: 0;">
@@ -92,12 +99,12 @@
 	</tr>
 </table>
 
-<table width="100%" border="0" style="border: none;">
-	<tr style="border: none;">
-		<td width="15%" valign="middle" align="center" style="border: none;">
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td width="15%" valign="middle" align="center">
 			<img src="./assets/bitbloq-logo.svg" style="max-height: 100px; max-width: 100%;" alt="Logo Bitbloq"/>
 		</td>
-		<td width="85%" valign="middle" style="border: none;">
+		<td width="85%" valign="middle">
 			<h3 style="margin: 0 0 8px 0;">Bitbloq <small>(2014 – 2016)</small></h3>
 			<p style="margin: 0 0 8px 0;">Scratch-like educational platform built with Electron for Windows/Linux/macOS using Angular and Backbone.</p>
 			<p style="margin: 0;">
@@ -264,17 +271,19 @@
 
 ## 📊 My Activity
 
-<div style="display: flex; gap: 20px; width: 100%; align-items:stretch">
-	<div style="flex: 6;">
-		<img src="https://github-readme-stats-mu-ten-27.vercel.app/api?username=dieguezz&show_icons=true&bg_color=00000000&title_color=6d289f&icon_color=9d4edd&text_color=c77dff&border_color=6d289f&hide_border=false&count_private=true&include_all_commits=true&border_radius=8&border_width=1" alt="Estadísticas de GitHub" style="width: 100%; height: 100%; max-width: 100%;" />
-	</div>
-	<div style="flex: 4;">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieguezz&langs_count=8&layout=compact&bg_color=00000000&title_color=6d289f&icon_color=9d4edd&text_color=c77dff&border_color=6d289f&hide_border=false&border_radius=8&border_width=1" alt="Lenguajes más utilizados" style="width: 100%; height: 100%; max-width: 100%;" />
-	</div>
-</div>
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td width="60%" valign="top">
+			<img src="https://github-readme-stats-mu-ten-27.vercel.app/api?username=dieguezz&show_icons=true&bg_color=00000000&title_color=6d289f&icon_color=9d4edd&text_color=c77dff&border_color=6d289f&hide_border=false&count_private=true&include_all_commits=true&border_radius=8&border_width=1" alt="GitHub Stats" style="width: 100%;" />
+		</td>
+		<td width="40%" valign="top">
+			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieguezz&langs_count=8&layout=compact&bg_color=00000000&title_color=6d289f&icon_color=9d4edd&text_color=c77dff&border_color=6d289f&hide_border=false&border_radius=8&border_width=1" alt="Top Languages" style="width: 100%;" />
+		</td>
+	</tr>
+</table>
 
-<div align="center" style="margin: 20px 0;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dieguezz&bg_color=00000000&color=6d289f&line=9d4edd&point=c77dff&area=true&area_color=6d289f&title_color=6d289f&custom_title=Actividad%20de%20GitHub&hide_border=false&border_color=6d289f&radius=8&border_width=2" alt="Grafo de actividad de GitHub" style="max-width:100%;" />
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dieguezz&bg_color=00000000&color=6d289f&line=9d4edd&point=c77dff&area=true&area_color=6d289f&title_color=6d289f&custom_title=GitHub%20Activity&hide_border=false&border_color=6d289f&radius=8&border_width=1" alt="GitHub Activity Graph" style="max-width:100%;" />
 </div>
 
 <br/>
