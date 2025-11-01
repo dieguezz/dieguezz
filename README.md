@@ -28,9 +28,9 @@
 
 ## 🏆 Featured Projects
 
-### mi pepephone <sub>(2023 – Present)</sub>
+### Mi Pepephone <sub>(2023 – Present)</sub>
 
-<img src="./assets/mi-pepephone-logo.png" align="left" width="100" alt="mi pepephone"/>
+<img src="./assets/mi-pepephone-logo.png" align="left" width="100" alt="Mi Pepephone"/>
 
 Lead developer of the React Native team. Highest-rated app in the sector on app stores.
 
