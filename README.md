@@ -2,39 +2,22 @@
 <div align="center">
 	<h3>Software Engineer</h3>
 	<p><strong>Expertise:</strong> JavaScript, TypeScript & React Native</p>
-	<p style="margin-top: 12px;">
+	<p>
 		<strong>Co-founder of</strong> 
-		<a href="https://etereo.io" target="_blank" style="text-decoration: none; margin-left: 8px;">
-			<img src="./assets/etereo-logo.svg" alt="etereo" style="height: 24px; vertical-align: middle; padding: 4px 8px; background: white; border-radius: 4px; border: 1px solid #e0e0e0;" width="auto"/>
+		<a href="https://etereo.io" target="_blank">
+			<img src="./assets/etereo-logo.svg" alt="etereo" height="20" style="vertical-align: middle; background-color: white; padding: 3px 6px; border-radius: 3px;"/>
 		</a>
 	</p>
 </div>
 
-<div align="center">
-	<table width="100%" cellpadding="0" cellspacing="0" border="0">
-		<tr>
-			<td>
-				<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='1'%3E%3Crect width='100%25' height='100%25' fill='none' rx='8' ry='8' stroke='%236d289f' stroke-width='1' stroke-dasharray='0' stroke-dashoffset='0' stroke-linecap='square'/%3E%3C/svg%3E" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" />
-				<table width="100%" cellpadding="20" cellspacing="0" border="0" style="border: 1px solid #6d289f; border-radius: 8px;">
-					<tr>
-						<td width="70%" valign="middle">
-							<p style="margin: 0; line-height: 1.6;">
-								Multidisciplinary software engineer passionate about creating exceptional digital experiences. I define myself as a <strong>change agent</strong> who embraces technical challenges with curiosity and determination. I combine strategic vision with practical execution to transform complex ideas into elegant and scalable solutions.
-							</p>
-						</td>
-						<td width="30%" valign="middle" align="right">
-							<p style="margin: 0; font-size: 0.85em; color: #666;">+15 years in tech</p>
-							<p style="margin: 4px 0 0 0; font-size: 0.85em; color: #666;">PhD in Philosophy</p>
-							<p style="margin: 4px 0 0 0; font-size: 0.85em; color: #666;">Studying Physics</p>
-						</td>
-					</tr>
-				</table>
-			</td>
-		</tr>
-	</table>
-</div>
+---
 
-<br/>
+**Multidisciplinary software engineer** passionate about creating exceptional digital experiences. I define myself as a **change agent** who embraces technical challenges with curiosity and determination. I combine strategic vision with practical execution to transform complex ideas into elegant and scalable solutions.
+
+<sub>+15 years in tech • PhD in Philosophy • Studying Physics</sub>
+
+---
+
 
 <div align="center">
 	<a href="https://git.io/typing-svg">
@@ -45,77 +28,65 @@
 
 ## 🏆 Featured Projects
 
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-	<tr>
-		<td width="15%" valign="middle" align="center">
-			<img src="./assets/mi-pepephone-logo.png" style="max-height: 100px; max-width: 100%;" alt="Logo Mi Pepephone"/>
-		</td>
-		<td width="85%" valign="middle">
-			<h3 style="margin: 0 0 8px 0;">mi pepephone <small>(2023 – Present)</small></h3>
-			<p style="margin: 0 0 8px 0;">Lead developer of the React Native team. Highest-rated app in the sector on app stores.</p>
-			<p style="margin: 0;">
-				<img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native"/>
-				<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-				<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=react-query&logoColor=white" alt="TanStack Query"/>
-				<a href="https://apps.apple.com/es/app/mi-pepephone/id508082036"><img src="https://img.shields.io/badge/App_Store-000000?style=flat-square&logo=apple&logoColor=white" alt="App Store"/></a>
-				<a href="https://play.google.com/store/apps/details?id=com.spanishcoders.pepephone"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" alt="Google Play"/></a>
-				<a href="https://appgallery.huawei.com/app/C104303317"><img src="https://img.shields.io/badge/Huawei_AppGallery-FF0000?style=flat-square&logo=huawei&logoColor=white" alt="Huawei AppGallery"/></a>
-			</p>
-		</td>
-	</tr>
-</table>
+### mi pepephone <sub>(2023 – Present)</sub>
 
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-	<tr>
-		<td width="15%" valign="middle" align="center">
-			<img src="./assets/yoigo-logo.svg.png" style="max-height: 100px; max-width: 100%;" alt="Logo Yoigo"/>
-		</td>
-		<td width="85%" valign="middle">
-			<h3 style="margin: 0 0 8px 0;">Yoigo.com <small>(2018 – 2019)</small></h3>
-			<p style="margin: 0 0 8px 0;">Led the development of the new corporate website with Angular 2, Redux, and RxJS for complex user journeys.</p>
-			<p style="margin: 0;">
-				<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
-				<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux"/>
-				<img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" alt="RxJS"/>
-			</p>
-		</td>
-	</tr>
-</table>
+<img src="./assets/mi-pepephone-logo.png" align="left" width="100" alt="mi pepephone"/>
 
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-	<tr>
-		<td width="15%" valign="middle" align="center">
-			<img src="./assets/geniac-logo.png" style="max-height: 100px; max-width: 100%;" alt="Logo Geniac"/>
-		</td>
-		<td width="85%" valign="middle">
-			<h3 style="margin: 0 0 8px 0;">Geniac <small>(2016 – 2017)</small></h3>
-			<p style="margin: 0 0 8px 0;">Implemented critical workflow, automation, and reporting modules for enterprise SaaS platform.</p>
-			<p style="margin: 0;">
-				<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
-				<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-				<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins"/>
-			</p>
-		</td>
-	</tr>
-</table>
+Lead developer of the React Native team. Highest-rated app in the sector on app stores.
 
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-	<tr>
-		<td width="15%" valign="middle" align="center">
-			<img src="./assets/bitbloq-logo.svg" style="max-height: 100px; max-width: 100%;" alt="Logo Bitbloq"/>
-		</td>
-		<td width="85%" valign="middle">
-			<h3 style="margin: 0 0 8px 0;">Bitbloq <small>(2014 – 2016)</small></h3>
-			<p style="margin: 0 0 8px 0;">Scratch-like educational platform built with Electron for Windows/Linux/macOS using Angular and Backbone.</p>
-			<p style="margin: 0;">
-				<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron"/>
-				<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
-				<img src="https://img.shields.io/badge/Backbone.js-0071B5?style=flat-square&logo=backbone.js&logoColor=white" alt="Backbone"/>
-				<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
-			</p>
-		</td>
-	</tr>
-</table>
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
+[![App Store](https://img.shields.io/badge/App_Store-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/es/app/mi-pepephone/id508082036)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.spanishcoders.pepephone)
+[![Huawei AppGallery](https://img.shields.io/badge/Huawei_AppGallery-FF0000?style=flat-square&logo=huawei&logoColor=white)](https://appgallery.huawei.com/app/C104303317)
+
+<br clear="left"/>
+
+---
+
+### Yoigo.com <sub>(2018 – 2019)</sub>
+
+<img src="./assets/yoigo-logo.svg.png" align="left" width="100" alt="Yoigo"/>
+
+Led the development of the new corporate website with Angular 2, Redux, and RxJS for complex user journeys.
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+
+<br clear="left"/>
+
+---
+
+### Geniac <sub>(2016 – 2017)</sub>
+
+<img src="./assets/geniac-logo.png" align="left" width="100" alt="Geniac"/>
+
+Implemented critical workflow, automation, and reporting modules for enterprise SaaS platform.
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+
+<br clear="left"/>
+
+---
+
+### Bitbloq <sub>(2014 – 2016)</sub>
+
+<img src="./assets/bitbloq-logo.svg" align="left" width="100" alt="Bitbloq"/>
+
+Scratch-like educational platform built with Electron for Windows/Linux/macOS using Angular and Backbone.
+
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Backbone](https://img.shields.io/badge/Backbone.js-0071B5?style=flat-square&logo=backbone.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+<br clear="left"/>
+
+---
 
 <br/>
 
@@ -271,25 +242,16 @@
 
 ## 📊 My Activity
 
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-	<tr>
-		<td width="60%" valign="top">
-			<img src="https://github-readme-stats-mu-ten-27.vercel.app/api?username=dieguezz&show_icons=true&bg_color=00000000&title_color=6d289f&icon_color=9d4edd&text_color=c77dff&border_color=6d289f&hide_border=false&count_private=true&include_all_commits=true&border_radius=8&border_width=1" alt="GitHub Stats" style="width: 100%;" />
-		</td>
-		<td width="40%" valign="top">
-			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieguezz&langs_count=8&layout=compact&bg_color=00000000&title_color=6d289f&icon_color=9d4edd&text_color=c77dff&border_color=6d289f&hide_border=false&border_radius=8&border_width=1" alt="Top Languages" style="width: 100%;" />
-		</td>
-	</tr>
-</table>
+<p align="center">
+	<img src="https://github-readme-stats-mu-ten-27.vercel.app/api?username=dieguezz&show_icons=true&bg_color=00000000&title_color=6d289f&icon_color=9d4edd&text_color=c77dff&border_color=6d289f&hide_border=false&count_private=true&include_all_commits=true&border_radius=8&border_width=1" alt="GitHub Stats" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieguezz&langs_count=8&layout=compact&bg_color=00000000&title_color=6d289f&icon_color=9d4edd&text_color=c77dff&border_color=6d289f&hide_border=false&border_radius=8&border_width=1" alt="Top Languages" />
+</p>
 
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dieguezz&bg_color=00000000&color=6d289f&line=9d4edd&point=c77dff&area=true&area_color=6d289f&title_color=6d289f&custom_title=GitHub%20Activity&hide_border=false&border_color=6d289f&radius=8&border_width=1" alt="GitHub Activity Graph" style="max-width:100%;" />
-</div>
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dieguezz&bg_color=00000000&color=6d289f&line=9d4edd&point=c77dff&area=true&area_color=6d289f&title_color=6d289f&custom_title=GitHub%20Activity&hide_border=false&border_color=6d289f&radius=8&border_width=1" alt="GitHub Activity Graph" width="100%"/>
+</p>
 
 <br/>
-
-## 🏆 Proyectos Destacados
-
 
 
 ## ♟️ Let's Talk
