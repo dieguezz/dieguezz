@@ -295,20 +295,3 @@
 </p>
 
 <br/>
-
----
-
-### 🚀 Next Steps
-
-To activate this README as your GitHub profile page:
-
-1. **Create a special repository**: Create a new public repository named **exactly** `dieguezz` (matching your GitHub username).
-2. **Add this README**: Copy this `README.md` file to the root of that repository.
-3. **Include assets**: Create an `assets` folder in the repository and upload all logo files:
-   - `mi-pepephone-logo.png`
-   - `yoigo-logo.svg.png`
-   - `geniac-logo.png`
-   - `bitbloq-logo.svg`
-   - `etereo-logo.svg`
-4. **Commit and push**: Push all changes to GitHub. The README will automatically appear on your profile page at `github.com/dieguezz`.
-5. **Keep it updated**: Regularly update the projects section to reflect your latest work and achievements.
