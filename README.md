@@ -15,7 +15,7 @@
 <br/>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&text=My%20Activity&fontSize=35&fontColor=ffffff&height=80&section=header&gradient=0:6d289f,50:9d4edd,100:c77dff" alt="My Activity"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&text=📊%20My%20Activity&fontSize=35&fontColor=ffffff&height=80&section=header&gradient=0:6d289f,50:9d4edd,100:c77dff" alt="My Activity"/>
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 <br/>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&text=Tech%20Stack&fontSize=35&fontColor=ffffff&height=80&section=header&gradient=0:6d289f,50:9d4edd,100:c77dff" alt="Tech Stack"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&text=🛠️%20Tech%20Stack&fontSize=35&fontColor=ffffff&height=80&section=header&gradient=0:6d289f,50:9d4edd,100:c77dff" alt="Tech Stack"/>
 </p>
 
 <details open>
@@ -185,7 +185,7 @@
 <br />
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&text=Featured%20Projects&fontSize=35&fontColor=ffffff&height=80&section=header&gradient=0:6d289f,50:9d4edd,100:c77dff" alt="Featured Projects"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&text=🏆%20Featured%20Projects&fontSize=35&fontColor=ffffff&height=80&section=header&gradient=0:6d289f,50:9d4edd,100:c77dff" alt="Featured Projects"/>
 </p>
 
 <img src="./assets/project-pepephone.svg" alt="Mi Pepephone"/>
@@ -224,7 +224,9 @@
 
 <br/>
 
-## ♟️ Let's Talk
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&text=♟️%20Let's%20Talk&fontSize=35&fontColor=ffffff&height=80&section=header&gradient=0:6d289f,50:9d4edd,100:c77dff" alt="Let's Talk"/>
+</p>
 
 <p align="center">
   I'm passionate about technology, security, chess, and sports.<br/><br/>
