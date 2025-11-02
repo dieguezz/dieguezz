@@ -14,14 +14,10 @@ td, th {
 </div>
 
 <br/>
-  <a href="url"><img src="https://desmond75.github.io/img/IMG_20171214_095012.jpg" height="auto" width="200" style="border-radius:50%"></a>
 
-<div style="border: 1px solid #9d4edd; border-radius: 4px; padding: 10px">
 **Multidisciplinary software engineer** passionate about creating exceptional digital experiences. I define myself as a **change agent** who embraces technical challenges with curiosity and determination. I combine strategic vision with practical execution to transform complex ideas into elegant and scalable solutions.
 
 <sub>+15 years in tech • PhD in Philosophy • Studying Physics</sub>
-</div>
-
 
 
 <div align="center">
@@ -29,7 +25,6 @@ td, th {
 		<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=22&pause=1000&color=6d289f&background=00000000&center=true&vCenter=true&width=550&lines=Software+engineer;Senior+Mobile+%2B+Web+Developer;React+Native+Specialist;Building+technology+since+I+was+a+kid;Security+%26+Anonymity+Enthusiast;Game+changer;Chess+Player;Always+Learning" alt="Typing SVG" />
 	</a>
 </div>
-
 
 ## 🏆 Featured Projects
 
@@ -107,6 +102,7 @@ Scratch-like educational platform built with Electron for Windows/Linux/macOS us
 <summary><strong>🔥 In Production · High Confidence</strong></summary>
 
 **💻 Languages**
+
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -117,6 +113,7 @@ Scratch-like educational platform built with Electron for Windows/Linux/macOS us
 <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown"/>
 
 **⚛️ Frameworks & Libraries**
+
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" alt="React"/>
 <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=000000" alt="React Native"/>
@@ -133,6 +130,7 @@ Scratch-like educational platform built with Electron for Windows/Linux/macOS us
 <img src="https://img.shields.io/badge/Emotion-D36AC2?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTMyIDY0QzQ5LjY3MzEgNjQgNjQgNDkuNjczMSA2NCAzMkM2NCAxNC4zMjY5IDQ5LjY3MzEgMCAzMiAwQzE0LjMyNjkgMCAwIDE0LjMyNjkgMCAzMkMwIDQ5LjY3MzEgMTQuMzI2OSA2NCAzMiA2NFoiIGZpbGw9IiNEMzZBQzIiLz4KPC9zdmc+Cg==" alt="Emotion"/>
 
 **🧪 Testing**
+
 <p>
 <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest"/>
 <img src="https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testing-library&logoColor=white" alt="Testing Library"/>
@@ -140,6 +138,7 @@ Scratch-like educational platform built with Electron for Windows/Linux/macOS us
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright"/>
 
 **🛠️ Build & Tooling**
+
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
 <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm"/>
@@ -154,6 +153,7 @@ Scratch-like educational platform built with Electron for Windows/Linux/macOS us
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000000" alt="Linux"/>
 
 **☁️ Infrastructure**
+
 <p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
@@ -171,6 +171,7 @@ Scratch-like educational platform built with Electron for Windows/Linux/macOS us
 <summary><strong>🔁 Shelf Ready · Medium Confidence</strong></summary>
 
 **💻 Languages**
+
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
@@ -178,6 +179,7 @@ Scratch-like educational platform built with Electron for Windows/Linux/macOS us
 <img src="https://img.shields.io/badge/Protocol_Buffers-4285F4?style=flat-square&logo=google&logoColor=white" alt="Protocol Buffers"/>
 
 **⚛️ Frameworks & Libraries**
+
 <p>
 <img src="https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white" alt="gRPC"/>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
@@ -193,11 +195,13 @@ Scratch-like educational platform built with Electron for Windows/Linux/macOS us
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift"/>
 
 **🛠️ Build & Tooling**
+
 <p>
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=000000" alt="Webpack"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins"/>
 
 **☁️ Infrastructure**
+
 <p>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
@@ -223,6 +227,7 @@ Scratch-like educational platform built with Electron for Windows/Linux/macOS us
 <summary><strong>🗂️ Legacy · Active History</strong></summary>
 
 **⚛️ Frameworks & Libraries**
+
 <p>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery"/>
 <img src="https://img.shields.io/badge/Backbone.js-0071B5?style=flat-square&logo=backbone.js&logoColor=white" alt="Backbone.js"/>
@@ -231,10 +236,12 @@ Scratch-like educational platform built with Electron for Windows/Linux/macOS us
 <img src="https://img.shields.io/badge/Foundation-0093D0?style=flat-square&logoColor=white" alt="Foundation"/>
 
 **🧪 Testing**
+
 <p>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium"/>
 
 **🛠️ Build & Tooling**
+
 <p>
 <img src="https://img.shields.io/badge/Gulp-CF4647?style=flat-square&logo=gulp&logoColor=white" alt="Gulp"/>
 <img src="https://img.shields.io/badge/Grunt-FBA919?style=flat-square&logo=grunt&logoColor=white" alt="Grunt"/>
@@ -242,7 +249,6 @@ Scratch-like educational platform built with Electron for Windows/Linux/macOS us
 <img src="https://img.shields.io/badge/3ds_Max-0384AE?style=flat-square&logo=autodesk&logoColor=white" alt="3ds Max"/>
 
 </details>
-
 
 <br/>
 
@@ -262,7 +268,6 @@ Scratch-like educational platform built with Electron for Windows/Linux/macOS us
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dieguezz&bg_color=00000000&color=6d289f&line=9d4edd&point=c77dff&area=true&area_color=6d289f&title_color=6d289f&custom_title=GitHub%20Activity&hide_border=false&border_color=6d289f&radius=8&border_width=1" alt="GitHub Activity Graph" width="100%"/>
 
 <br/>
-
 
 ## ♟️ Let's Talk
 
