@@ -225,13 +225,16 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&text=Let's%20Talk&fontSize=32&fontColor=6d289f&height=120&section=header&customColorList=6d289f,9d4edd,c77dff" alt="Let's Talk"/>
 </p>
 
-<p align="center">
-  I'm passionate about technology, security, chess, and sports.<br/><br/>
-  Would you like to collaborate on a project, discuss philosophy, or just chat about technology?<br/><br/>
-  <strong>Schedule a conversation with me.</strong><br/><br/>
-  <a href="https://calendar.app.google/4MNXuxpX4sYdR3zy9">
-    <img src="https://img.shields.io/badge/Book%20a%20Meeting-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a meeting"/>
-  </a>
-</p>
+<div align="center">
+
+<img src="./assets/lets-talk.svg" alt="Let's Talk"/>
+
+<br/><br/>
+
+<a href="https://calendar.app.google/4MNXuxpX4sYdR3zy9">
+  <img src="https://img.shields.io/badge/Book%20a%20Meeting-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a meeting"/>
+</a>
+
+</div>
 
 <br/>

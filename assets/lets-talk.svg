@@ -1,0 +1,55 @@
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Border box with rounded corners -->
+  <rect x="1" y="1" width="798" height="198" 
+        fill="transparent" 
+        stroke="#6d289f" 
+        stroke-width="1" 
+        rx="8" 
+        ry="8"/>
+  
+  <!-- Title -->
+  <text x="400" y="35" 
+        font-family="'Segoe UI', 'Ubuntu', 'Helvetica Neue', sans-serif" 
+        font-size="24" 
+        font-weight="bold" 
+        fill="#c77dff" 
+        text-anchor="middle">
+    ♟️ Let's Talk
+  </text>
+  
+  <!-- Content line 1 -->
+  <text x="400" y="70" 
+        font-family="'Segoe UI', 'Ubuntu', 'Helvetica Neue', sans-serif" 
+        font-size="14" 
+        fill="#c77dff" 
+        text-anchor="middle">
+    I'm passionate about technology, security, chess, and sports.
+  </text>
+  
+  <!-- Content line 2 -->
+  <text x="400" y="95" 
+        font-family="'Segoe UI', 'Ubuntu', 'Helvetica Neue', sans-serif" 
+        font-size="14" 
+        fill="#c77dff" 
+        text-anchor="middle">
+    Would you like to collaborate on a project, discuss philosophy, or just chat about technology?
+  </text>
+  
+  <!-- Content line 3 -->
+  <text x="400" y="125" 
+        font-family="'Segoe UI', 'Ubuntu', 'Helvetica Neue', sans-serif" 
+        font-size="14" 
+        font-weight="bold" 
+        fill="#9d4edd" 
+        text-anchor="middle">
+    Schedule a conversation with me
+  </text>
+  
+  <!-- Wave hand emoji -->
+  <text x="400" y="175" 
+        font-family="'Segoe UI', 'Ubuntu', 'Helvetica Neue', sans-serif" 
+        font-size="40" 
+        text-anchor="middle">
+    👋
+  </text>
+</svg>
