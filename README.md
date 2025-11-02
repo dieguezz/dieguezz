@@ -1,9 +1,3 @@
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-<div align="center">
 
 ### Software Engineer
 
@@ -11,20 +5,24 @@ td, th {
 
 **Co-founder of** [etereo.io](https://etereo.io)
 
-</div>
-
 <br/>
+
+---
 
 **Multidisciplinary software engineer** passionate about creating exceptional digital experiences. I define myself as a **change agent** who embraces technical challenges with curiosity and determination. I combine strategic vision with practical execution to transform complex ideas into elegant and scalable solutions.
 
 <sub>+15 years in tech • PhD in Philosophy • Studying Physics</sub>
 
-
+---
 <div align="center">
 	<a href="https://git.io/typing-svg">
 		<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=22&pause=1000&color=6d289f&background=00000000&center=true&vCenter=true&width=550&lines=Software+engineer;Senior+Mobile+%2B+Web+Developer;React+Native+Specialist;Building+technology+since+I+was+a+kid;Security+%26+Anonymity+Enthusiast;Game+changer;Chess+Player;Always+Learning" alt="Typing SVG" />
 	</a>
 </div>
+
+---
+
+<br />
 
 ## 🏆 Featured Projects
 
