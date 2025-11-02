@@ -221,10 +221,6 @@
 
 <br/>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&text=Let's%20Talk&fontSize=32&fontColor=6d289f&height=120&section=header&customColorList=6d289f,9d4edd,c77dff" alt="Let's Talk"/>
-</p>
-
 <div align="center">
 
 <img src="./assets/lets-talk.svg" alt="Let's Talk"/>
