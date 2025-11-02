@@ -16,7 +16,6 @@
 
 ## 🏆 Featured Projects
 
-<img src="./assets/mi-pepephone-logo.png" align="left" width="100" alt="Mi Pepephone"/>
 <img src="./assets/project-pepephone.svg" alt="Mi Pepephone"/>
 
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -26,41 +25,30 @@
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.spanishcoders.pepephone)
 [![Huawei AppGallery](https://img.shields.io/badge/Huawei_AppGallery-FF0000?style=flat-square&logo=huawei&logoColor=white)](https://appgallery.huawei.com/app/C104303317)
 
-<br clear="left"/>
-
 ---
 
-<img src="./assets/yoigo-logo.svg.png" align="left" width="100" alt="Yoigo"/>
 <img src="./assets/project-yoigo.svg" alt="Yoigo.com"/>
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
 
-<br clear="left"/>
-
 ---
 
-<img src="./assets/geniac-logo.png" align="left" width="100" alt="Geniac"/>
 <img src="./assets/project-geniac.svg" alt="Geniac"/>
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
-<br clear="left"/>
-
 ---
 
-<img src="./assets/bitbloq-logo.svg" align="left" width="100" alt="Bitbloq"/>
 <img src="./assets/project-bitbloq.svg" alt="Bitbloq"/>
 
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Backbone](https://img.shields.io/badge/Backbone.js-0071B5?style=flat-square&logo=backbone.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-<br clear="left"/>
 
 <br/>
 
@@ -222,16 +210,10 @@
 
 ## 📊 My Activity
 
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats-mu-ten-27.vercel.app/api?username=dieguezz&show_icons=true&bg_color=00000000&title_color=6d289f&icon_color=9d4edd&text_color=c77dff&border_color=6d289f&hide_border=false&count_private=true&include_all_commits=true&border_radius=8&border_width=1" alt="GitHub Stats" width="100%"/>
-</td>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieguezz&langs_count=8&layout=compact&bg_color=00000000&title_color=6d289f&icon_color=9d4edd&text_color=c77dff&border_color=6d289f&hide_border=false&border_radius=8&border_width=1" alt="Top Languages" width="100%"/>
-</td>
-</tr>
-</table>
+<p align="center">
+<img src="https://github-readme-stats-mu-ten-27.vercel.app/api?username=dieguezz&show_icons=true&bg_color=00000000&title_color=6d289f&icon_color=9d4edd&text_color=c77dff&border_color=6d289f&hide_border=false&count_private=true&include_all_commits=true&border_radius=8&border_width=1" alt="GitHub Stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieguezz&langs_count=8&layout=compact&bg_color=00000000&title_color=6d289f&icon_color=9d4edd&text_color=c77dff&border_color=6d289f&hide_border=false&border_radius=8&border_width=1" alt="Top Languages" width="49%"/>
+</p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dieguezz&bg_color=00000000&color=6d289f&line=9d4edd&point=c77dff&area=true&area_color=6d289f&title_color=6d289f&custom_title=GitHub%20Activity&hide_border=false&border_color=6d289f&radius=8&border_width=1" alt="GitHub Activity Graph" width="100%"/>
 
