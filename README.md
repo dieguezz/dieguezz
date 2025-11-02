@@ -1,9 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6d289f,50:9d4edd,100:c77dff&amp;height=200&amp;section=header&amp;text=Building%20the%20Future,%20One%20Line%20at%20a%20Time&amp;fontSize=35&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=38" alt="Waving Header"/>
-
-<img src="./assets/test.svg" alt="Header"/>
+<img src="./assets/hero.svg" alt="Header"/>
 
 </div>
 
@@ -13,12 +11,6 @@
 		<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=22&pause=1000&color=6d289f&background=00000000&center=true&vCenter=true&width=550&lines=Software+engineer;Senior+Mobile+%2B+Web+Developer;React+Native+Specialist;Building+technology+since+I+was+a+kid;Security+%26+Anonymity+Enthusiast;Game+changer;Chess+Player;Always+Learning" alt="Typing SVG" />
 	</a>
 </div>
-
----
-
-<br />
-
-## 🏆 Featured Projects
 
 <table>
 <tr>
