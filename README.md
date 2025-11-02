@@ -12,14 +12,12 @@
 	</a>
 </div>
 
-<table>
-<tr>
-<td width="100"><img src="./assets/mi-pepephone-logo.png" width="100" alt="Mi Pepephone"/></td>
-<td>
+<br />
 
-### Mi Pepephone <sub>(2023 – Present)</sub>
+## 🏆 Featured Projects
 
-Lead developer of the React Native team. Highest-rated app in the sector on app stores.
+<img src="./assets/mi-pepephone-logo.png" align="left" width="100" alt="Mi Pepephone"/>
+<img src="./assets/project-pepephone.svg" alt="Mi Pepephone"/>
 
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -28,55 +26,41 @@ Lead developer of the React Native team. Highest-rated app in the sector on app 
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.spanishcoders.pepephone)
 [![Huawei AppGallery](https://img.shields.io/badge/Huawei_AppGallery-FF0000?style=flat-square&logo=huawei&logoColor=white)](https://appgallery.huawei.com/app/C104303317)
 
-</td>
-</tr>
-<tr><td colspan="2"></td></tr>
-<tr>
-<td width="100"><img src="./assets/yoigo-logo.svg.png" width="100" alt="Yoigo"/></td>
-<td>
+<br clear="left"/>
 
-### Yoigo.com <sub>(2018 – 2019)</sub>
+---
 
-Led the development of the new corporate website with Angular 2, Redux, and RxJS for complex user journeys.
+<img src="./assets/yoigo-logo.svg.png" align="left" width="100" alt="Yoigo"/>
+<img src="./assets/project-yoigo.svg" alt="Yoigo.com"/>
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
 
-</td>
-</tr>
-<tr><td colspan="2"></td></tr>
-<tr>
-<td width="100"><img src="./assets/geniac-logo.png" width="100" alt="Geniac"/></td>
-<td>
+<br clear="left"/>
 
-### Geniac <sub>(2016 – 2017)</sub>
+---
 
-Implemented critical workflow, automation, and reporting modules for enterprise SaaS platform.
+<img src="./assets/geniac-logo.png" align="left" width="100" alt="Geniac"/>
+<img src="./assets/project-geniac.svg" alt="Geniac"/>
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
-</td>
-</tr>
-<tr><td colspan="2"></td></tr>
-<tr>
-<td width="100"><img src="./assets/bitbloq-logo.svg" width="100" alt="Bitbloq"/></td>
-<td>
+<br clear="left"/>
 
-### Bitbloq <sub>(2014 – 2016)</sub>
+---
 
-Scratch-like educational platform built with Electron for Windows/Linux/macOS using Angular and Backbone.
+<img src="./assets/bitbloq-logo.svg" align="left" width="100" alt="Bitbloq"/>
+<img src="./assets/project-bitbloq.svg" alt="Bitbloq"/>
 
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Backbone](https://img.shields.io/badge/Backbone.js-0071B5?style=flat-square&logo=backbone.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-</td>
-</tr>
-</table>
+<br clear="left"/>
 
 <br/>
 

@@ -1,0 +1,32 @@
+<svg width="680" height="95" xmlns="http://www.w3.org/2000/svg">
+  <!-- Título -->
+  <text x="0" y="28" 
+        font-family="'Segoe UI', 'Ubuntu', 'Helvetica Neue', sans-serif" 
+        font-size="22" 
+        font-weight="600" 
+        fill="#c77dff">
+    Bitbloq
+  </text>
+  
+  <!-- Fecha -->
+  <text x="0" y="48" 
+        font-family="'Segoe UI', 'Ubuntu', 'Helvetica Neue', sans-serif" 
+        font-size="11" 
+        fill="#9d4edd">
+    (2014 – 2016)
+  </text>
+  
+  <!-- Descripción -->
+  <text x="0" y="70" 
+        font-family="'Segoe UI', 'Ubuntu', 'Helvetica Neue', sans-serif" 
+        font-size="14" 
+        fill="#c77dff">
+    Scratch-like educational platform built with Electron for Windows/Linux/macOS
+  </text>
+  <text x="0" y="88" 
+        font-family="'Segoe UI', 'Ubuntu', 'Helvetica Neue', sans-serif" 
+        font-size="14" 
+        fill="#c77dff">
+    using Angular and Backbone.
+  </text>
+</svg>
