@@ -1,20 +1,13 @@
 
-### Software Engineer
+<div align="center">
 
-**Expertise:** JavaScript, TypeScript & React Native
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,14,16,18,20&amp;height=200&amp;section=header&amp;text=Building%20the%20Future,%20One%20Line%20at%20a%20Time&amp;fontSize=35&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=38" alt="Waving Header"/>
 
-**Co-founder of** [etereo.io](https://etereo.io)
+<img src="./assets/test.svg" alt="Header"/>
+
+</div>
 
 <br/>
-
----
-<img src="./assets/test.svg">
-
-
-
-<sub>+15 years in tech • PhD in Philosophy • Studying Physics</sub>
-
----
 <div align="center">
 	<a href="https://git.io/typing-svg">
 		<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=22&pause=1000&color=6d289f&background=00000000&center=true&vCenter=true&width=550&lines=Software+engineer;Senior+Mobile+%2B+Web+Developer;React+Native+Specialist;Building+technology+since+I+was+a+kid;Security+%26+Anonymity+Enthusiast;Game+changer;Chess+Player;Always+Learning" alt="Typing SVG" />
