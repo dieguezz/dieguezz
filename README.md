@@ -23,10 +23,7 @@
 
 <br/>
 
-<p>
-<img src="https://capsule-render.vercel.app/api?type=transparent&text=Tech%20Stack&fontSize=32&fontColor=6d289f&height=120&section=header&customColorList=6d289f,9d4edd,c77dff" alt="Tech Stack"/>
-</p>
-
+### Tech Stack
 <details open>
 <summary><strong>🔥 In Production · High Confidence</strong></summary>
 
@@ -181,8 +178,9 @@
 <br />
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&text=Featured%20Projects&fontSize=32&fontColor=6d289f&height=120&section=header&customColorList=6d289f,9d4edd,c77dff" alt="Featured Projects"/>
-</p>
+
+### Featured Projects
+
 
 <img src="./assets/project-pepephone.svg" alt="Mi Pepephone"/>
 
