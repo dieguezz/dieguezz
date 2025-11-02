@@ -14,12 +14,6 @@
 
 <br/>
 
-<div align="center">
-<img src="./assets/section-my-activity.svg" alt="My Activity"/>
-</div>
-
-<br/>
-
 <p align="center">
 <img src="https://github-readme-stats-mu-ten-27.vercel.app/api?username=dieguezz&show_icons=true&bg_color=00000000&title_color=6d289f&icon_color=9d4edd&text_color=c77dff&border_color=6d289f&hide_border=false&count_private=true&include_all_commits=true&border_radius=8&border_width=1" alt="GitHub Stats" width="60%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieguezz&langs_count=8&layout=compact&bg_color=00000000&title_color=6d289f&icon_color=9d4edd&text_color=c77dff&border_color=6d289f&hide_border=false&border_radius=8&border_width=1" alt="Top Languages" width="39%"/>
