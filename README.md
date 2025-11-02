@@ -12,47 +12,24 @@
 	</a>
 </div>
 
-<br />
+<br/>
 
-## 🏆 Featured Projects
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&text=My%20Activity&fontSize=35&fontColor=ffffff&height=80&section=header&gradient=0:6d289f,50:9d4edd,100:c77dff" alt="My Activity"/>
+</p>
 
-<img src="./assets/project-pepephone.svg" alt="Mi Pepephone"/>
+<p align="center">
+<img src="https://github-readme-stats-mu-ten-27.vercel.app/api?username=dieguezz&show_icons=true&bg_color=00000000&title_color=6d289f&icon_color=9d4edd&text_color=c77dff&border_color=6d289f&hide_border=false&count_private=true&include_all_commits=true&border_radius=8&border_width=1" alt="GitHub Stats" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieguezz&langs_count=8&layout=compact&bg_color=00000000&title_color=6d289f&icon_color=9d4edd&text_color=c77dff&border_color=6d289f&hide_border=false&border_radius=8&border_width=1" alt="Top Languages" width="39%"/>
+</p>
 
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
-[![App Store](https://img.shields.io/badge/App_Store-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/es/app/mi-pepephone/id508082036)
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.spanishcoders.pepephone)
-[![Huawei AppGallery](https://img.shields.io/badge/Huawei_AppGallery-FF0000?style=flat-square&logo=huawei&logoColor=white)](https://appgallery.huawei.com/app/C104303317)
-
----
-
-<img src="./assets/project-yoigo.svg" alt="Yoigo.com"/>
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
-
----
-
-<img src="./assets/project-geniac.svg" alt="Geniac"/>
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-
----
-
-<img src="./assets/project-bitbloq.svg" alt="Bitbloq"/>
-
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Backbone](https://img.shields.io/badge/Backbone.js-0071B5?style=flat-square&logo=backbone.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dieguezz&bg_color=00000000&color=6d289f&line=9d4edd&point=c77dff&area=true&area_color=6d289f&title_color=6d289f&custom_title=GitHub%20Activity&hide_border=false&border_color=6d289f&radius=8&border_width=1" alt="GitHub Activity Graph" width="100%"/>
 
 <br/>
 
-## 🛠️ Tech Stack
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&text=Tech%20Stack&fontSize=35&fontColor=ffffff&height=80&section=header&gradient=0:6d289f,50:9d4edd,100:c77dff" alt="Tech Stack"/>
+</p>
 
 <details open>
 <summary><strong>🔥 In Production · High Confidence</strong></summary>
@@ -74,13 +51,11 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" alt="React"/>
 <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=000000" alt="React Native"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux"/>
-<img src="https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyIDBDNS4zNzkgMCAwIDUuMzc5IDAgMTJzNS4zNzkgMTIgMTIgMTIgMTItNS4zNzkgMTItMTJTMTguNjIxIDAgMTIgMHpNMTAuNDYgMTkuODg4Yy0yLjgzNSAwLTQuODU1LTEuNTU0LTUuMzk4LTMuNjQ4bDEuOTU4LS41NGMuMzIzIDEuMjUyIDEuNTg3IDIuMjc0IDMuNDQgMi4yNzQgMS45MTUgMCAzLjAyMS0xLjAyIDMuMDIxLTIuNDA1IDAtMS41MTItMS4wMjMtMi4xMzMtMy4xMDgtMi44My0yLjQxLS44MjYtNC4wMi0xLjg0LTYuMDI3LTIuNDMzLTYuMDI3LTEuNTk4IDAgMy41NzYtMS4xMTcgMy41NzYtMy4wMTUgMC0xLjU1MSAxLjEyNy0yLjc0MyAyLjk1OC0yLjc0MyAyLjEyNiAwIDMuODMzIDEuMTE0IDQuMTkgMi45OWwtMS44OTMuNTk0Yy0uMi0xLjA0OC0xLjE5Mi0xLjc0NC0yLjI5Ny0xLjc0NC0xLjM2NSAwLTIuMTc4Ljg4LTIuMTc4IDIuMDc4IDAgMS4zNTIgMS4wMDQgMS44OTQgMi43NzMgMi40OTQgMy4wNzIgMS4wNjUgMy43NTggMy4yMSAzLjc1OCAyLjQ5NCAwIDMuNTc2LTEuMTE3IDMuNTc2LTMuMDE1IDAtMS41NTEgMS4xMjctMi43NDMgMi45NTgtMi43NDMgMi4xMjYgMCAzLjgzMyAxLjExNCA0LjE5IDIuOTlsLTEuODkzLjU5NGMtLjItMS4wNDgtMS4xOTItMS43NDQtMi4yOTctMS43NDQtMS4zNjUgMC0yLjE3OC44OC0yLjE3OCAyLjA3OCAwIDEuMzUyIDEuMDA0IDEuODk0IDIuNzczIDIuNDk0IDMuMDcyIDEuMDY1IDMuNzU4IDMyLjM5MyAxMy41MyAyMi40NjIgMTIuMzEyIDIyLjQ2MiAxMC40NiAxOS44ODhaIi8+PC9zdmc+Cg==&logoColor=white" alt="Zustand"/>
 <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=react-query&logoColor=white" alt="TanStack Query"/>
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL"/>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass"/>
 <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white" alt="Styled Components"/>
 <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="Material UI"/>
-<img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white" alt="Ant Design"/>
 <img src="https://img.shields.io/badge/NativeBase-3178C6?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTMyIDY0QzQ5LjY3MzEgNjQgNjQgNDkuNjczMSA2NCAzMkM2NCAxNC4zMjY5IDQ5LjY3MzEgMCAzMiAwQzE0LjMyNjkgMCAwIDE0LjMyNjkgMCAzMkMwIDQ5LjY3MzEgMTQuMzI2OSA2NCAzMiA2NFoiIGZpbGw9IiMzMTc4QzYiLz4KPHBhdGggZD0iTTQ4IDMyQzQ4IDQwLjgzNjYgNDAuODM2NiA0OCAzMiA0OEMyMy4xNjM0IDQ4IDE2IDQwLjgzNjYgMTYgMzJDMTYgMjMuMTYzNCAyMy4xNjM0IDE2IDMyIDE2QzQwLjgzNjYgMTYgNDggMjMuMTYzNCA0OCAzMloiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=" alt="NativeBase"/>
 <img src="https://img.shields.io/badge/Gluestack-000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTMyIDY0QzQ5LjY3MzEgNjQgNjQgNDkuNjczMSA2NCAzMkM2NCAxNC4zMjY5IDQ5LjY3MzEgMCAzMiAwQzE0LjMyNjkgMCAwIDE0LjMyNjkgMCAzMkMwIDQ5LjY3MzEgMTQuMzI2OSA2NCAzMiA2NFoiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=" alt="Gluestack"/>
 <img src="https://img.shields.io/badge/Emotion-D36AC2?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTMyIDY0QzQ5LjY3MzEgNjQgNjQgNDkuNjczMSA2NCAzMkM2NCAxNC4zMjY5IDQ5LjY3MzEgMCAzMiAwQzE0LjMyNjkgMCAwIDE0LjMyNjkgMCAzMkMwIDQ5LjY3MzEgMTQuMzI2OSA2NCAzMiA2NFoiIGZpbGw9IiNEMzZBQzIiLz4KPC9zdmc+Cg==" alt="Emotion"/>
@@ -149,9 +124,10 @@
 <img src="https://img.shields.io/badge/Deno-000000?style=flat-square&logo=deno&logoColor=white" alt="Deno"/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift"/>
+<img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white" alt="Ant Design"/>
+<img src="https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyIDBDNS4zNzkgMCAwIDUuMzc5IDAgMTJzNS4zNzkgMTIgMTIgMTIgMTItNS4zNzkgMTItMTJTMTguNjIxIDAgMTIgMHpNMTAuNDYgMTkuODg4Yy0yLjgzNSAwLTQuODU1LTEuNTU0LTUuMzk4LTMuNjQ4bDEuOTU4LS41NGMuMzIzIDEuMjUyIDEuNTg3IDIuMjc0IDMuNDQgMi4yNzQgMS45MTUgMCAzLjAyMS0xLjAyIDMuMDIxLTIuNDA1IDAtMS41MTItMS4wMjMtMi4xMzMtMy4xMDgtMi44My0yLjQxLS44MjYtNC4wMi0xLjg0LTYuMDI3LTIuNDMzLTYuMDI3LTEuNTk4IDAgMy41NzYtMS4xMTcgMy41NzYtMy4wMTUgMC0xLjU1MSAxLjEyNy0yLjc0MyAyLjk1OC0yLjc0MyAyLjEyNiAwIDMuODMzIDEuMTE0IDQuMTkgMi45OWwtMS44OTMuNTk0Yy0uMi0xLjA0OC0xLjE5Mi0xLjc0NC0yLjI5Ny0xLjc0NC0xLjM2NSAwLTIuMTc4Ljg4LTIuMTc4IDIuMDc4IDAgMS4zNTIgMS4wMDQgMS44OTQgMi43NzMgMi40OTQgMy4wNzIgMS4wNjUgMy43NTggMy4yMSAzLjc1OCAyLjQ5NCAwIDMuNTc2LTEuMTE3IDMuNTc2LTMuMDE1IDAtMS41NTEgMS4xMjctMi43NDMgMi45NTgtMi43NDMgMi4xMjYgMCAzLjgzMyAxLjExNCA0LjE5IDIuOTlsLTEuODkzLjU5NGMtLjItMS4wNDgtMS4xOTItMS43NDQtMi4yOTctMS43NDQtMS4zNjUgMC0yLjE3OC44OC0yLjE3OCAyLjA3OCAwIDEuMzUyIDEuMDA0IDEuODk0IDIuNzczIDIuNDk0IDMuMDcyIDEuMDY1IDMuNzU4IDMyLjM5MyAxMy41MyAyMi40NjIgMTIuMzEyIDIyLjQ2MiAxMC40NiAxOS44ODhaIi8+PC9zdmc+Cg==&logoColor=white" alt="Zustand"/>
 
 **🛠️ Build & Tooling**
-
 <p>
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=000000" alt="Webpack"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins"/>
@@ -206,16 +182,45 @@
 
 </details>
 
-<br/>
-
-## 📊 My Activity
+<br />
 
 <p align="center">
-<img src="https://github-readme-stats-mu-ten-27.vercel.app/api?username=dieguezz&show_icons=true&bg_color=00000000&title_color=6d289f&icon_color=9d4edd&text_color=c77dff&border_color=6d289f&hide_border=false&count_private=true&include_all_commits=true&border_radius=8&border_width=1" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dieguezz&langs_count=8&layout=compact&bg_color=00000000&title_color=6d289f&icon_color=9d4edd&text_color=c77dff&border_color=6d289f&hide_border=false&border_radius=8&border_width=1" alt="Top Languages" width="49%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&text=Featured%20Projects&fontSize=35&fontColor=ffffff&height=80&section=header&gradient=0:6d289f,50:9d4edd,100:c77dff" alt="Featured Projects"/>
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dieguezz&bg_color=00000000&color=6d289f&line=9d4edd&point=c77dff&area=true&area_color=6d289f&title_color=6d289f&custom_title=GitHub%20Activity&hide_border=false&border_color=6d289f&radius=8&border_width=1" alt="GitHub Activity Graph" width="100%"/>
+<img src="./assets/project-pepephone.svg" alt="Mi Pepephone"/>
+
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
+[![App Store](https://img.shields.io/badge/App_Store-000000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/es/app/mi-pepephone/id508082036)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.spanishcoders.pepephone)
+[![Huawei AppGallery](https://img.shields.io/badge/Huawei_AppGallery-FF0000?style=flat-square&logo=huawei&logoColor=white)](https://appgallery.huawei.com/app/C104303317)
+
+---
+
+<img src="./assets/project-yoigo.svg" alt="Yoigo.com"/>
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+
+---
+
+<img src="./assets/project-geniac.svg" alt="Geniac"/>
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+
+---
+
+<img src="./assets/project-bitbloq.svg" alt="Bitbloq"/>
+
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Backbone](https://img.shields.io/badge/Backbone.js-0071B5?style=flat-square&logo=backbone.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 <br/>
 
