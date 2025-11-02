@@ -194,7 +194,7 @@
 
 <br/>
 
-<p align="center">
+<p>
 
 <img src="./assets/project-pepephone.svg" alt="Mi Pepephone"/>
 
