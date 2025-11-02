@@ -1,26 +1,18 @@
-<svg width="680" height="110" xmlns="http://www.w3.org/2000/svg">
-  <!-- Título -->
-  <text x="0" y="28" 
+<svg width="700" height="100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Title and Date -->
+  <text x="0" y="40" 
         font-family="'Segoe UI', 'Ubuntu', 'Helvetica Neue', sans-serif" 
-        font-size="22" 
-        font-weight="600" 
+        font-size="20" 
+        font-weight="bold" 
         fill="#c77dff">
-    Mi Pepephone
+    Mi Pepephone <tspan fill="#9d4edd" font-size="14" font-weight="normal">(2023 – Present)</tspan>
   </text>
   
-  <!-- Fecha -->
-  <text x="0" y="48" 
-        font-family="'Segoe UI', 'Ubuntu', 'Helvetica Neue', sans-serif" 
-        font-size="11" 
-        fill="#9d4edd">
-    (2023 – Present)
-  </text>
-  
-  <!-- Descripción -->
-  <text x="0" y="75" 
+  <!-- Description -->
+  <text x="0" y="65" 
         font-family="'Segoe UI', 'Ubuntu', 'Helvetica Neue', sans-serif" 
         font-size="14" 
         fill="#c77dff">
-    Lead developer of the React Native team. Highest-rated app in the sector on app stores.
+    Lead developer of the React Native team. Building a mobile app from scratch for 3+ million users with a focus on performance and user experience.
   </text>
 </svg>
