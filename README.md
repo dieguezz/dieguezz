@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,14,16,18,20&amp;height=200&amp;section=header&amp;text=Building%20the%20Future,%20One%20Line%20at%20a%20Time&amp;fontSize=35&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=38" alt="Waving Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6d289f,50:9d4edd,100:c77dff&amp;height=200&amp;section=header&amp;text=Building%20the%20Future,%20One%20Line%20at%20a%20Time&amp;fontSize=35&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=38" alt="Waving Header"/>
 
 <img src="./assets/test.svg" alt="Header"/>
 
