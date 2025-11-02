@@ -1,6 +1,6 @@
-<svg width="700" height="100" xmlns="http://www.w3.org/2000/svg">
+<svg width="700" height="70" xmlns="http://www.w3.org/2000/svg">
   <!-- Title and Date -->
-  <text x="0" y="40" 
+  <text x="0" y="25" 
         font-family="'Segoe UI', 'Ubuntu', 'Helvetica Neue', sans-serif" 
         font-size="20" 
         font-weight="bold" 
@@ -9,7 +9,7 @@
   </text>
   
   <!-- Description -->
-  <text x="0" y="65" 
+  <text x="0" y="50" 
         font-family="'Segoe UI', 'Ubuntu', 'Helvetica Neue', sans-serif" 
         font-size="14" 
         fill="#c77dff">
