@@ -1,3 +1,8 @@
+<style>
+td, th {
+   border: none!important;
+}
+</style>
 <div align="center">
 
 ### Software Engineer
@@ -9,6 +14,7 @@
 </div>
 
 <br/>
+  <a href="url"><img src="https://desmond75.github.io/img/IMG_20171214_095012.jpg" height="auto" width="200" style="border-radius:50%"></a>
 
 <div style="border: 1px solid #9d4edd; border-radius: 4px; padding: 10px">
 **Multidisciplinary software engineer** passionate about creating exceptional digital experiences. I define myself as a **change agent** who embraces technical challenges with curiosity and determination. I combine strategic vision with practical execution to transform complex ideas into elegant and scalable solutions.
