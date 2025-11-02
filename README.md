@@ -15,7 +15,7 @@
 <br/>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&text=📊%20My%20Activity&fontSize=35&fontColor=ffffff&height=80&section=header&gradient=0:6d289f,50:9d4edd,100:c77dff" alt="My Activity"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&text=My%20Activity&fontSize=32&fontColor=6d289f&height=120&section=header&customColorList=6d289f,9d4edd,c77dff" alt="My Activity"/>
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 <br/>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&text=🛠️%20Tech%20Stack&fontSize=35&fontColor=ffffff&height=80&section=header&gradient=0:6d289f,50:9d4edd,100:c77dff" alt="Tech Stack"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&text=Tech%20Stack&fontSize=32&fontColor=6d289f&height=120&section=header&customColorList=6d289f,9d4edd,c77dff" alt="Tech Stack"/>
 </p>
 
 <details open>
@@ -185,7 +185,7 @@
 <br />
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&text=🏆%20Featured%20Projects&fontSize=35&fontColor=ffffff&height=80&section=header&gradient=0:6d289f,50:9d4edd,100:c77dff" alt="Featured Projects"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&text=Featured%20Projects&fontSize=32&fontColor=6d289f&height=120&section=header&customColorList=6d289f,9d4edd,c77dff" alt="Featured Projects"/>
 </p>
 
 <img src="./assets/project-pepephone.svg" alt="Mi Pepephone"/>
@@ -197,7 +197,6 @@
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.spanishcoders.pepephone)
 [![Huawei AppGallery](https://img.shields.io/badge/Huawei_AppGallery-FF0000?style=flat-square&logo=huawei&logoColor=white)](https://appgallery.huawei.com/app/C104303317)
 
----
 
 <img src="./assets/project-yoigo.svg" alt="Yoigo.com"/>
 
@@ -205,7 +204,6 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
 
----
 
 <img src="./assets/project-geniac.svg" alt="Geniac"/>
 
@@ -213,7 +211,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
----
 
 <img src="./assets/project-bitbloq.svg" alt="Bitbloq"/>
 
@@ -225,7 +222,7 @@
 <br/>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&text=♟️%20Let's%20Talk&fontSize=35&fontColor=ffffff&height=80&section=header&gradient=0:6d289f,50:9d4edd,100:c77dff" alt="Let's Talk"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&text=Let's%20Talk&fontSize=32&fontColor=6d289f&height=120&section=header&customColorList=6d289f,9d4edd,c77dff" alt="Let's Talk"/>
 </p>
 
 <p align="center">
