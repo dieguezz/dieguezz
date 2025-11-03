@@ -63,7 +63,7 @@
 </details>
 
 <details>
-<summary><strong>� Ready to Use · Confident & Available</strong></summary>
+<summary><strong>🔧 Ready to Use · Confident & Available</strong></summary>
 
 <br/>
 
