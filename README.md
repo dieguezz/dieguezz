@@ -23,11 +23,6 @@
 
 <br/>
 
-<div align="center">
-<img src="./assets/section-tech-stack.svg" alt="Tech Stack"/>
-</div>
-
-<br/>
 
 <details open>
 <summary><strong>⚡ Current Stack · In Active Use</strong></summary>
